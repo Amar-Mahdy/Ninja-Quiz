@@ -1,11 +1,13 @@
+## check broject
+our live project : https://amar-mahdy.github.io/Ninja-Quiz/index.html
+
 # Getting Started
 
 This repository functions as the basis of the quiz project in the [Browsers module](https://github.com/HackYourFuture/Browsers). Before the first group meeting, have a look through this code and try to understand how it works and how it is organized. We will explain the idea behind the structure below as well as the Backlog (which will identify what is needed to be implemented).
 
 We have already implemented a very basic UI that can go through the questions to show you how this kind of code is split and how you can use the structure to your advantage. Have a look through it before your first group meeting as it can take a little while to get your head around it!
 
-## check broject
-our live project : https://obadaelsharbatly.github.io/quiz-project-NinjaTeam-HYF/
+
 ## Development
 
 To run this project locally you will need to open `index.html` in your browser using a local server. LiveServer, `http-server`, `study-lenses`, or any other local static server will work.
